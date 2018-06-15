@@ -1,0 +1,3 @@
+1	Are_you a_cs_graduate?
+2	Are_you_a_high_achiever_and_driven_individual?
+3	Do_you_work_well_in_a_team_,_as_well_as_in_an_autonomous_role?
